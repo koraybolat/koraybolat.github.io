@@ -1,3 +1,1 @@
 "# koraybolat.github.io" 
-
-"Merhaba"
